@@ -1,0 +1,20 @@
+Account Details
+
+Admin Account Details are as follows:
+Username: admin
+Password: admin
+
+Admin has access to all features
+
+Staff Account Details are as follows:
+Username: staff
+Password: staff
+
+Staff has access to features except suppliers
+
+Staff Account Details are as follows:
+Username: customer
+Password: customer
+Customers only have access to Merchandise
+
+Each has their own dashboard
